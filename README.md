@@ -1,1 +1,4 @@
 # GitHubPages_test01
+
+GitHubPagesでプロジェクトページを公開するテスト
+Public属性で新規リポジトリ作成
